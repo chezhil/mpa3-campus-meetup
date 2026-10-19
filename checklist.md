@@ -1,1 +1,1 @@
-book a room, announce the event, prepare registration
+check if registration link works
